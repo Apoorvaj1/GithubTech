@@ -5,3 +5,5 @@ W
 'src/test/java/org/selenium/aj/Rest.java,9\0\902cbab3d588962e6402b733ff11f2c8dee5b78a
 Z
 *src/test/java/org/selenium/aj/Assured.java,c\2\c2a860fb9022553ec900c229b41f1cf36b139e8d
+w
+G.idea/sonarlint/issuestore/c/2/c2a860fb9022553ec900c229b41f1cf36b139e8d,1\b\1b21ac5964ff3cdee2130481ef987981991913fe
