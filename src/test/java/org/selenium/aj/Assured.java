@@ -23,6 +23,10 @@ public class Assured {
 
     public void name(){
         System.out.println("yoyo honey singh");
+        System.out.println("Mika singh");
+        System.out.println("Hello");
     }
+
+
 
 }
