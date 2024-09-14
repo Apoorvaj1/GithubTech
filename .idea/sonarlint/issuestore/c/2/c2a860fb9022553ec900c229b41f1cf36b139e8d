@@ -1,7 +1,3 @@
 
 Ï
-<<<<<<< HEAD
-java:S3577"†Rename class "Assured" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÂØÂ±şÿÿÿÿ8Ëª’Ÿ2J$80aed0c1-c175-42f0-96f6-ba96823de2e2
-=======
-java:S3577"†Rename class "Assured" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÂØÂ±şÿÿÿÿ8Ëª’Ÿ2J$0068d8d6-0ddf-4ef1-9564-5ed3c72a92ec
->>>>>>> develop
+java:S3577"†Rename class "Assured" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÂØÂ±şÿÿÿÿ8Ëª’Ÿ2J$8ef2f7de-462a-4ad5-9677-e5e8465e282f

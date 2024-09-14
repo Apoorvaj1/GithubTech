@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 
 ¡
+<<<<<<< HEAD
 java:S3577"ƒRename class "Rest" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÀÇ‚´8ŞÁñŸ2
 =======
 >>>>>>> develop
+=======
+java:S3577"ƒRename class "Rest" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÀÇ‚´8°ùÚŸ2
+>>>>>>> b4bd15fa8371754e5b8baf9fdc52e0b425f2a202

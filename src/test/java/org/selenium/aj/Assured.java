@@ -18,16 +18,7 @@ public class Assured {
 
     @Test
     public void test3(){
-        System.out.println("Test3");
+        System.out.println("Test3343243534");
     }
 
-    @Test
-    public void test4(){
-        System.out.println("Test4");
-    }
-
-    @Test
-    public void test5(){
-        System.out.println("Hello world");
-    }
 }
