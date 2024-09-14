@@ -21,4 +21,8 @@ public class Assured {
         System.out.println("Test3343243534");
     }
 
+    public void name(){
+        System.out.println("yoyo honey singh");
+    }
+
 }
