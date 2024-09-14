@@ -20,4 +20,13 @@ public class Assured {
     public void test3(){
         System.out.println("Test3");
     }
+
+    public void calculate(int a,int b){
+        System.out.println(a+b);
+    }
+
+    public static void main(String[] args) {
+        Assured assured = new Assured();
+        assured.calculate(10,22);
+    }
 }
