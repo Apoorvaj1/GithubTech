@@ -4,10 +4,15 @@ import org.testng.annotations.Test;
 
 public class Assured {
 
-    // Hello I am User 1 updating few details
+    // Hello I am User 2 updating few details
 
     @Test
     public void test1(){
         System.out.println("Test1");
+    }
+
+    @Test
+    public void test2(){
+        System.out.println("Test2");
     }
 }
